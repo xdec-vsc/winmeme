@@ -1,0 +1,10 @@
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\sumsumsumiforgornow\sumsumsumiforgornow\bin\Debug\sumsumsumiforgornow.exe.config
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\sumsumsumiforgornow\sumsumsumiforgornow\bin\Debug\sumsumsumiforgornow.exe
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\sumsumsumiforgornow\sumsumsumiforgornow\bin\Debug\sumsumsumiforgornow.pdb
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\sumsumsumiforgornow\sumsumsumiforgornow\obj\Debug\sumsumsumiforgornow.csproj.AssemblyReference.cache
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\sumsumsumiforgornow\sumsumsumiforgornow\obj\Debug\sumsumsumiforgornow.Form1.resources
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\sumsumsumiforgornow\sumsumsumiforgornow\obj\Debug\sumsumsumiforgornow.Properties.Resources.resources
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\sumsumsumiforgornow\sumsumsumiforgornow\obj\Debug\sumsumsumiforgornow.csproj.GenerateResource.cache
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\sumsumsumiforgornow\sumsumsumiforgornow\obj\Debug\sumsumsumiforgornow.csproj.CoreCompileInputs.cache
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\sumsumsumiforgornow\sumsumsumiforgornow\obj\Debug\sumsumsumiforgornow.exe
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\sumsumsumiforgornow\sumsumsumiforgornow\obj\Debug\sumsumsumiforgornow.pdb
