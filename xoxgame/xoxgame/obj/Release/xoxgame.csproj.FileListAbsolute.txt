@@ -1,0 +1,10 @@
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\xoxgame\xoxgame\bin\Release\xoxgame.exe.config
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\xoxgame\xoxgame\bin\Release\xoxgame.exe
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\xoxgame\xoxgame\bin\Release\xoxgame.pdb
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\xoxgame\xoxgame\obj\Release\xoxgame.csproj.AssemblyReference.cache
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\xoxgame\xoxgame\obj\Release\xoxgame.Form1.resources
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\xoxgame\xoxgame\obj\Release\xoxgame.Properties.Resources.resources
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\xoxgame\xoxgame\obj\Release\xoxgame.csproj.GenerateResource.cache
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\xoxgame\xoxgame\obj\Release\xoxgame.csproj.CoreCompileInputs.cache
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\xoxgame\xoxgame\obj\Release\xoxgame.exe
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\xoxgame\xoxgame\obj\Release\xoxgame.pdb

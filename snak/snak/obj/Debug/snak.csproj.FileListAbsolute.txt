@@ -1,0 +1,6 @@
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\snak\snak\obj\Debug\snak.csproj.AssemblyReference.cache
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\snak\snak\obj\Debug\SnakeGame.Form1.resources
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\snak\snak\obj\Debug\snak.Properties.Resources.resources
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\snak\snak\obj\Debug\snak.csproj.GenerateResource.cache
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\snak\snak\obj\Debug\snak.csproj.CoreCompileInputs.cache
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\snak\snak\obj\Debug\Program.resources
