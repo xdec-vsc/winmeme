@@ -1,0 +1,10 @@
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\win meme\win meme\bin\Debug\win meme.exe.config
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\win meme\win meme\bin\Debug\win meme.exe
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\win meme\win meme\bin\Debug\win meme.pdb
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\win meme\win meme\obj\Debug\win meme.csproj.AssemblyReference.cache
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\win meme\win meme\obj\Debug\win_meme.Form1.resources
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\win meme\win meme\obj\Debug\win_meme.Properties.Resources.resources
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\win meme\win meme\obj\Debug\win meme.csproj.GenerateResource.cache
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\win meme\win meme\obj\Debug\win meme.csproj.CoreCompileInputs.cache
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\win meme\win meme\obj\Debug\win meme.exe
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\win meme\win meme\obj\Debug\win meme.pdb

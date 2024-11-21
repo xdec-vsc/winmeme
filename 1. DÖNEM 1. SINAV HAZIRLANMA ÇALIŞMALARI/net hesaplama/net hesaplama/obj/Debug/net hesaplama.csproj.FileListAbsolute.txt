@@ -1,0 +1,10 @@
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\1. DÖNEM 1. SINAV HAZIRLANMA ÇALIŞMALARI\net hesaplama\net hesaplama\bin\Debug\net hesaplama.exe.config
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\1. DÖNEM 1. SINAV HAZIRLANMA ÇALIŞMALARI\net hesaplama\net hesaplama\bin\Debug\net hesaplama.exe
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\1. DÖNEM 1. SINAV HAZIRLANMA ÇALIŞMALARI\net hesaplama\net hesaplama\bin\Debug\net hesaplama.pdb
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\1. DÖNEM 1. SINAV HAZIRLANMA ÇALIŞMALARI\net hesaplama\net hesaplama\obj\Debug\net hesaplama.csproj.AssemblyReference.cache
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\1. DÖNEM 1. SINAV HAZIRLANMA ÇALIŞMALARI\net hesaplama\net hesaplama\obj\Debug\net_hesaplama.Form1.resources
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\1. DÖNEM 1. SINAV HAZIRLANMA ÇALIŞMALARI\net hesaplama\net hesaplama\obj\Debug\net_hesaplama.Properties.Resources.resources
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\1. DÖNEM 1. SINAV HAZIRLANMA ÇALIŞMALARI\net hesaplama\net hesaplama\obj\Debug\net hesaplama.csproj.GenerateResource.cache
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\1. DÖNEM 1. SINAV HAZIRLANMA ÇALIŞMALARI\net hesaplama\net hesaplama\obj\Debug\net hesaplama.csproj.CoreCompileInputs.cache
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\1. DÖNEM 1. SINAV HAZIRLANMA ÇALIŞMALARI\net hesaplama\net hesaplama\obj\Debug\net hesaplama.exe
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\1. DÖNEM 1. SINAV HAZIRLANMA ÇALIŞMALARI\net hesaplama\net hesaplama\obj\Debug\net hesaplama.pdb
