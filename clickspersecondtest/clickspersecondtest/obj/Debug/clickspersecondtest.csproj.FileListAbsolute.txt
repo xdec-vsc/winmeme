@@ -1,0 +1,10 @@
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\clickspersecondtest\clickspersecondtest\bin\Debug\clickspersecondtest.exe.config
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\clickspersecondtest\clickspersecondtest\bin\Debug\clickspersecondtest.exe
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\clickspersecondtest\clickspersecondtest\bin\Debug\clickspersecondtest.pdb
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\clickspersecondtest\clickspersecondtest\obj\Debug\clickspersecondtest.csproj.AssemblyReference.cache
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\clickspersecondtest\clickspersecondtest\obj\Debug\clickspersecondtest.Form1.resources
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\clickspersecondtest\clickspersecondtest\obj\Debug\clickspersecondtest.Properties.Resources.resources
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\clickspersecondtest\clickspersecondtest\obj\Debug\clickspersecondtest.csproj.GenerateResource.cache
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\clickspersecondtest\clickspersecondtest\obj\Debug\clickspersecondtest.csproj.CoreCompileInputs.cache
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\clickspersecondtest\clickspersecondtest\obj\Debug\clickspersecondtest.exe
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\clickspersecondtest\clickspersecondtest\obj\Debug\clickspersecondtest.pdb

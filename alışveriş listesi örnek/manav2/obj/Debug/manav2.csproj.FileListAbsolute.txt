@@ -1,0 +1,10 @@
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\manav2\manav2\obj\Debug\manav2.csproj.AssemblyReference.cache
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\manav2\manav2\obj\Debug\manav2.Form1.resources
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\manav2\manav2\obj\Debug\manav2.Properties.Resources.resources
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\manav2\manav2\obj\Debug\manav2.csproj.GenerateResource.cache
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\manav2\manav2\obj\Debug\manav2.csproj.CoreCompileInputs.cache
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\manav2\manav2\bin\Debug\manav2.exe.config
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\manav2\manav2\bin\Debug\manav2.exe
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\manav2\manav2\bin\Debug\manav2.pdb
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\manav2\manav2\obj\Debug\manav2.exe
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\manav2\manav2\obj\Debug\manav2.pdb
