@@ -1,0 +1,10 @@
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\dgv\dgv\bin\Debug\dgv.exe.config
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\dgv\dgv\bin\Debug\dgv.exe
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\dgv\dgv\bin\Debug\dgv.pdb
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\dgv\dgv\obj\Debug\dgv.csproj.AssemblyReference.cache
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\dgv\dgv\obj\Debug\dgv.Form1.resources
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\dgv\dgv\obj\Debug\dgv.Properties.Resources.resources
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\dgv\dgv\obj\Debug\dgv.csproj.GenerateResource.cache
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\dgv\dgv\obj\Debug\dgv.csproj.CoreCompileInputs.cache
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\dgv\dgv\obj\Debug\dgv.exe
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\dgv\dgv\obj\Debug\dgv.pdb

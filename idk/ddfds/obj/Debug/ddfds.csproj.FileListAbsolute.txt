@@ -1,0 +1,10 @@
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\ddfds\ddfds\bin\Debug\ddfds.exe.config
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\ddfds\ddfds\bin\Debug\ddfds.exe
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\ddfds\ddfds\bin\Debug\ddfds.pdb
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\ddfds\ddfds\obj\Debug\ddfds.csproj.AssemblyReference.cache
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\ddfds\ddfds\obj\Debug\ddfds.Form1.resources
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\ddfds\ddfds\obj\Debug\ddfds.Properties.Resources.resources
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\ddfds\ddfds\obj\Debug\ddfds.csproj.GenerateResource.cache
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\ddfds\ddfds\obj\Debug\ddfds.csproj.CoreCompileInputs.cache
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\ddfds\ddfds\obj\Debug\ddfds.exe
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\ddfds\ddfds\obj\Debug\ddfds.pdb

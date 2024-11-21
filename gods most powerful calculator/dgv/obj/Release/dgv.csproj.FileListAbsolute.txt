@@ -1,0 +1,10 @@
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\dgv\dgv\bin\Release\dgv.exe.config
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\dgv\dgv\bin\Release\dgv.exe
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\dgv\dgv\bin\Release\dgv.pdb
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\dgv\dgv\obj\Release\dgv.csproj.AssemblyReference.cache
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\dgv\dgv\obj\Release\dgv.Form1.resources
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\dgv\dgv\obj\Release\dgv.Properties.Resources.resources
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\dgv\dgv\obj\Release\dgv.csproj.GenerateResource.cache
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\dgv\dgv\obj\Release\dgv.csproj.CoreCompileInputs.cache
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\dgv\dgv\obj\Release\dgv.exe
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\dgv\dgv\obj\Release\dgv.pdb
