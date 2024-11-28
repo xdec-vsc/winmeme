@@ -1,0 +1,4 @@
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\ödev56\ödev56\obj\Debug\net8.0\ödev56.GeneratedMSBuildEditorConfig.editorconfig
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\ödev56\ödev56\obj\Debug\net8.0\ödev56.AssemblyInfoInputs.cache
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\ödev56\ödev56\obj\Debug\net8.0\ödev56.AssemblyInfo.cs
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\ödev56\ödev56\obj\Debug\net8.0\ödev56.csproj.CoreCompileInputs.cache
