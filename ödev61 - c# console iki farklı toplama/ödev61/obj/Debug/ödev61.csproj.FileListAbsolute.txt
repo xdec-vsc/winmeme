@@ -1,0 +1,7 @@
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\ödev61\ödev61\bin\Debug\ödev61.exe.config
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\ödev61\ödev61\bin\Debug\ödev61.exe
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\ödev61\ödev61\bin\Debug\ödev61.pdb
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\ödev61\ödev61\obj\Debug\ödev61.csproj.AssemblyReference.cache
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\ödev61\ödev61\obj\Debug\ödev61.csproj.CoreCompileInputs.cache
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\ödev61\ödev61\obj\Debug\ödev61.exe
+D:\Öğrenci Dosyaları\mfu95.bat\winmeme\ödev61\ödev61\obj\Debug\ödev61.pdb
